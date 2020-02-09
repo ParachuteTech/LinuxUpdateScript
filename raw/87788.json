@@ -691,4 +691,112 @@
     "review_id": "6923870",
     "movie_id": "87788",
     "author": "leth****",
-    "re
+    "review": "영화가 깊이가 있다",
+    "rating": "10",
+    "date": "12.11.25"
+  },
+  {
+    "review_id": "6909733",
+    "movie_id": "87788",
+    "author": "gene****",
+    "review": "속이 뻥 뚫리는 영화",
+    "rating": "10",
+    "date": "12.11.21"
+  },
+  {
+    "review_id": "6902938",
+    "movie_id": "87788",
+    "author": "qhdc****",
+    "review": "소재,공감가는부분,전하고자하는내용 다 좋으나 지루한게 흠..",
+    "rating": "9",
+    "date": "12.11.18"
+  },
+  {
+    "review_id": "6890039",
+    "movie_id": "87788",
+    "author": "cube****",
+    "review": "옳은 말을 해도 설교로 끝나 아쉽다.",
+    "rating": "7",
+    "date": "12.11.15"
+  },
+  {
+    "review_id": "6860257",
+    "movie_id": "87788",
+    "author": "ibre****",
+    "review": "현실은 더 끔찍",
+    "rating": "10",
+    "date": "12.11.06"
+  },
+  {
+    "review_id": "6852603",
+    "movie_id": "87788",
+    "author": "ansu****",
+    "review": "시간 때우기 도 좀 아까운 영화 인듯",
+    "rating": "5",
+    "date": "12.11.04"
+  },
+  {
+    "review_id": "6831757",
+    "movie_id": "87788",
+    "author": "spac****",
+    "review": "ㅋㅋㅋㅋ뭔가 가슴에남고 두번보고싶은 조금아쉬운 수작",
+    "rating": "9",
+    "date": "12.10.28"
+  },
+  {
+    "review_id": "6831115",
+    "movie_id": "87788",
+    "author": "ajaa****",
+    "review": "절대공감! 이곳도 다를바없지요. 최고의감동.",
+    "rating": "10",
+    "date": "12.10.28"
+  },
+  {
+    "review_id": "6825336",
+    "movie_id": "87788",
+    "author": "nowl****",
+    "review": "우리나라에 총기 소지가 되면 안되는 이유... 되면 다 죽을꺼야... ㅋㅋㅋ",
+    "rating": "8",
+    "date": "12.10.25"
+  },
+  {
+    "review_id": "6817294",
+    "movie_id": "87788",
+    "author": "homm****",
+    "review": "다죽여버렸야지, 결말이 아쉬어",
+    "rating": "9",
+    "date": "12.10.21"
+  },
+  {
+    "review_id": "6817005",
+    "movie_id": "87788",
+    "author": "soge****",
+    "review": "존나 수작 영화다",
+    "rating": "10",
+    "date": "12.10.21"
+  },
+  {
+    "review_id": "6808926",
+    "movie_id": "87788",
+    "author": "dark****",
+    "review": "우리나라도 앞으로 미국처럼 되겠지? 기대되네 ㅋㅋ",
+    "rating": "8",
+    "date": "12.10.17"
+  },
+  {
+    "review_id": "6783732",
+    "movie_id": "87788",
+    "author": "mado****",
+    "review": "그냥 자기가 떠들고싶은걸 영화로 만들었구만...",
+    "rating": "4",
+    "date": "12.10.11"
+  },
+  {
+    "review_id": "6770647",
+    "movie_id": "87788",
+    "author": "peti****",
+    "review": "무례한 사회에 대한 총성 Bang Bang! But 좋은 소재와 공감되는 소재를 가지고 좀 뻔하게 영화를 만들었다.",
+    "rating": "6",
+    "date": "12.10.07"
+  }
+]
