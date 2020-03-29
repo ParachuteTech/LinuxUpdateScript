@@ -732,4 +732,71 @@
     "date": "09.02.04",
     "rating": "8",
     "author": "dydy****",
-  
+    "review_id": "3278209",
+    "movie_id": "38341"
+  },
+  {
+    "review": "역시 박찬욱..",
+    "date": "09.01.25",
+    "rating": "10",
+    "author": "whyl****",
+    "review_id": "3247277",
+    "movie_id": "38341"
+  },
+  {
+    "review": "잔인하지도 않고 이건뭐",
+    "date": "09.01.24",
+    "rating": "1",
+    "author": "csc2****",
+    "review_id": "3245983",
+    "movie_id": "38341"
+  },
+  {
+    "review": "박찬욱 감독님 짱^^",
+    "date": "09.01.17",
+    "rating": "10",
+    "author": "wjda****",
+    "review_id": "3227794",
+    "movie_id": "38341"
+  },
+  {
+    "review": "1.2편은 다소 지루했다,, 그런데 박찬욱 감독의 '컷' 이 이영화를 살려주네,,",
+    "date": "08.12.17",
+    "rating": "10",
+    "author": "leem****",
+    "review_id": "3125035",
+    "movie_id": "38341"
+  },
+  {
+    "review": "역시 박찬욱 감독님 ^^ 이라는 말밖에 안나오네요.",
+    "date": "08.11.23",
+    "rating": "10",
+    "author": "llep****",
+    "review_id": "3066378",
+    "movie_id": "38341"
+  },
+  {
+    "review": "이영화의 콘셉, 인간 내면의 악마를 박찬욱 감독편의 이병헌에서 많이 느꼈다.",
+    "date": "08.11.01",
+    "rating": "10",
+    "author": "sook****",
+    "review_id": "3030391",
+    "movie_id": "38341"
+  },
+  {
+    "review": "박찬욱편의 승리",
+    "date": "08.10.25",
+    "rating": "10",
+    "author": "cons****",
+    "review_id": "3017709",
+    "movie_id": "38341"
+  },
+  {
+    "review": "처음외엔 정말 볼게 없는 영화",
+    "date": "08.10.22",
+    "rating": "4",
+    "author": "noxp****",
+    "review_id": "3013021",
+    "movie_id": "38341"
+  }
+]
