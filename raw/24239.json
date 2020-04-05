@@ -706,4 +706,25 @@
   {
     "review": "정말 강츄합니다.. 최근.. 26회를 다보았지요.. 3일동안.ㅋㅋ",
     "date": "04.06.25",
-    "rating"
+    "rating": "10",
+    "author": "ford****",
+    "review_id": "60392",
+    "movie_id": "24239"
+  },
+  {
+    "review": "넘 재밌게 봤죠^^",
+    "date": "04.06.22",
+    "rating": "10",
+    "author": "deit****",
+    "review_id": "59027",
+    "movie_id": "24239"
+  },
+  {
+    "review": "정말 재밌게 봣는데... 나름데로 매니아라면 매니아일만큼",
+    "date": "04.06.21",
+    "rating": "10",
+    "author": "audt****",
+    "review_id": "58227",
+    "movie_id": "24239"
+  }
+]
