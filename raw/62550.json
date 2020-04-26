@@ -764,4 +764,39 @@
     "date": "08.10.03",
     "rating": "10",
     "author": "cuti****",
-    "review_id": 
+    "review_id": "2980001",
+    "movie_id": "62550"
+  },
+  {
+    "review": "볼만한뎈ㅋㅋㅋㅋ 왤케 낮노 평점 ㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "08.10.03",
+    "rating": "9",
+    "author": "lack****",
+    "review_id": "2979997",
+    "movie_id": "62550"
+  },
+  {
+    "review": "재밋는데",
+    "date": "08.10.03",
+    "rating": "10",
+    "author": "kyy0****",
+    "review_id": "2979984",
+    "movie_id": "62550"
+  },
+  {
+    "review": "비밀번호 1234 ㅋㅌㅋㅋ",
+    "date": "08.10.03",
+    "rating": "6",
+    "author": "wild****",
+    "review_id": "2979962",
+    "movie_id": "62550"
+  },
+  {
+    "review": "별 반개도 아깝다",
+    "date": "08.09.30",
+    "rating": "1",
+    "author": "prem****",
+    "review_id": "2976558",
+    "movie_id": "62550"
+  }
+]
