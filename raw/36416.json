@@ -378,4 +378,337 @@
   {
     "review": "기존할리우드 영화와는 전혀색다른 신선한 영화",
     "date": "08.01.13",
-    "rating"
+    "rating": "10",
+    "author": "kimd****",
+    "review_id": "2327838",
+    "movie_id": "36416"
+  },
+  {
+    "review": "뭔말인지는 알겠는데... 답답하다....ㅡ.ㅡ",
+    "date": "08.01.12",
+    "rating": "3",
+    "author": "niti****",
+    "review_id": "2319926",
+    "movie_id": "36416"
+  },
+  {
+    "review": "독특하고 기발한 소재... 궁극의 도박",
+    "date": "08.01.09",
+    "rating": "8",
+    "author": "sepe****",
+    "review_id": "2310902",
+    "movie_id": "36416"
+  },
+  {
+    "review": "엄청 새롭고 신선하다",
+    "date": "08.01.03",
+    "rating": "7",
+    "author": "do_x****",
+    "review_id": "2295026",
+    "movie_id": "36416"
+  },
+  {
+    "review": "소재는 good 나머지는 전부 bad",
+    "date": "08.01.02",
+    "rating": "5",
+    "author": "meta****",
+    "review_id": "2292114",
+    "movie_id": "36416"
+  },
+  {
+    "review": "뭘 보여주려고 한지는 모르겠으나 혼자 짖어댄꼴 , 관객은 이해불능이오. 기본이 안됨",
+    "date": "08.01.02",
+    "rating": "1",
+    "author": "gkdi****",
+    "review_id": "2291940",
+    "movie_id": "36416"
+  },
+  {
+    "review": "스릴러로는 다소 밋밋",
+    "date": "07.12.23",
+    "rating": "8",
+    "author": "dame****",
+    "review_id": "2256520",
+    "movie_id": "36416"
+  },
+  {
+    "review": "독특하고 신선한",
+    "date": "07.12.21",
+    "rating": "10",
+    "author": "nana****",
+    "review_id": "2252541",
+    "movie_id": "36416"
+  },
+  {
+    "review": "얼마나 좋은 영환지 모르겠다..  지루해서 중반에 꺼버려서리 ㅡㅡ;",
+    "date": "07.12.21",
+    "rating": "4",
+    "author": "gall****",
+    "review_id": "2252508",
+    "movie_id": "36416"
+  },
+  {
+    "review": "한숨 잘 잤다~~",
+    "date": "07.12.21",
+    "rating": "6",
+    "author": "nuld****",
+    "review_id": "2252255",
+    "movie_id": "36416"
+  },
+  {
+    "review": "지루하다. 그러나 다소 구성과 설명이 부족한데 소재는 독특하다.",
+    "date": "07.12.20",
+    "rating": "6",
+    "author": "tong****",
+    "review_id": "2249897",
+    "movie_id": "36416"
+  },
+  {
+    "review": "소재와 스토리는 신선했지만.. 지루한 전개와 치밀하지 못한 구성이 아쉽다.",
+    "date": "07.12.20",
+    "rating": "6",
+    "author": "pion****",
+    "review_id": "2248333",
+    "movie_id": "36416"
+  },
+  {
+    "review": "신소제이긴 하나, 다소 지루함감이 있네요... 개인적으뢰추천하는영화입니다",
+    "date": "07.12.15",
+    "rating": "5",
+    "author": "beer****",
+    "review_id": "2234745",
+    "movie_id": "36416"
+  },
+  {
+    "review": "정말 최고의 영화 입니다 !! 사람을 깜짝 놀라게 하네요 ㅎㅎ 최고입니다",
+    "date": "07.12.13",
+    "rating": "10",
+    "author": "iyum****",
+    "review_id": "2228256",
+    "movie_id": "36416"
+  },
+  {
+    "review": "설명이 너무 부족해. 관객에 대한 배려가 조금만 더 있었더라면.",
+    "date": "07.11.28",
+    "rating": "7",
+    "author": "kwan****",
+    "review_id": "2189996",
+    "movie_id": "36416"
+  },
+  {
+    "review": "엉성한 소재인데 마무리가 무척 훌륭",
+    "date": "07.11.01",
+    "rating": "7",
+    "author": "onav****",
+    "review_id": "2125675",
+    "movie_id": "36416"
+  },
+  {
+    "review": "말도 않되는 황당무계 소재와 내용",
+    "date": "07.11.01",
+    "rating": "3",
+    "author": "pdi2****",
+    "review_id": "2125556",
+    "movie_id": "36416"
+  },
+  {
+    "review": "평점에 비해 좀 지루한 감이 있네...괜찮긴 한데 긴박감이 부족...",
+    "date": "07.10.27",
+    "rating": "6",
+    "author": "sun9****",
+    "review_id": "2113966",
+    "movie_id": "36416"
+  },
+  {
+    "review": "소재도 독특하고 내용도 볼만합니다.",
+    "date": "07.10.02",
+    "rating": "9",
+    "author": "sin1****",
+    "review_id": "2066085",
+    "movie_id": "36416"
+  },
+  {
+    "review": "실험영화의 매력..",
+    "date": "07.09.07",
+    "rating": "7",
+    "author": "toy2****",
+    "review_id": "2006721",
+    "movie_id": "36416"
+  },
+  {
+    "review": "새롭고 흥미롭긴 했으나... 그냥 머..",
+    "date": "07.08.03",
+    "rating": "7",
+    "author": "prim****",
+    "review_id": "1865476",
+    "movie_id": "36416"
+  },
+  {
+    "review": "줄거리를 모른 상태로 영화 보면 뭔 내용인지 몰라요.줄거리보고보세요",
+    "date": "07.08.01",
+    "rating": "8",
+    "author": "nmkk****",
+    "review_id": "1837267",
+    "movie_id": "36416"
+  },
+  {
+    "review": "행운.. 독특한 발상의 영화! 아주 빠른 진행은 아니지만.. 빨려든다..",
+    "date": "07.07.08",
+    "rating": "9",
+    "author": "caca****",
+    "review_id": "1756642",
+    "movie_id": "36416"
+  },
+  {
+    "review": "소재는 신선했으나 단지 그것뿐",
+    "date": "07.06.22",
+    "rating": "3",
+    "author": "foxy****",
+    "review_id": "1713958",
+    "movie_id": "36416"
+  },
+  {
+    "review": "특이한 소재 재미있습니다.",
+    "date": "07.06.19",
+    "rating": "9",
+    "author": "blue****",
+    "review_id": "1710101",
+    "movie_id": "36416"
+  },
+  {
+    "review": "보삼",
+    "date": "07.05.10",
+    "rating": "10",
+    "author": "jops****",
+    "review_id": "1630673",
+    "movie_id": "36416"
+  },
+  {
+    "review": "너무 심각하게 몰아가는 느낌이 별로없는데..",
+    "date": "07.01.27",
+    "rating": "7",
+    "author": "lshp****",
+    "review_id": "1418196",
+    "movie_id": "36416"
+  },
+  {
+    "review": "빼앗기만 한 사람은 나눌 줄 아는 사람을 당해 낼 수 없다.",
+    "date": "07.01.20",
+    "rating": "8",
+    "author": "teo0****",
+    "review_id": "1400387",
+    "movie_id": "36416"
+  },
+  {
+    "review": "정말 기발한 이야기",
+    "date": "06.12.28",
+    "rating": "9",
+    "author": "krpa****",
+    "review_id": "1334801",
+    "movie_id": "36416"
+  },
+  {
+    "review": "정말 재밌다....무조건 추천",
+    "date": "06.12.15",
+    "rating": "10",
+    "author": "joon****",
+    "review_id": "1295182",
+    "movie_id": "36416"
+  },
+  {
+    "review": "서양 도신들의 포스를 느낄수있는영화..남주인공 라울닮앗다",
+    "date": "06.10.14",
+    "rating": "7",
+    "author": "jaux****",
+    "review_id": "1179923",
+    "movie_id": "36416"
+  },
+  {
+    "review": "눈을뗄수가없는영화",
+    "date": "06.08.05",
+    "rating": "10",
+    "author": "wlsg****",
+    "review_id": "974497",
+    "movie_id": "36416"
+  },
+  {
+    "review": "독특한 생각이 이 멋진 영화를 만들었다.",
+    "date": "06.07.08",
+    "rating": "9",
+    "author": "eunv****",
+    "review_id": "877103",
+    "movie_id": "36416"
+  },
+  {
+    "review": "독특하지만 지루하다..",
+    "date": "06.05.06",
+    "rating": "7",
+    "author": "idah****",
+    "review_id": "788494",
+    "movie_id": "36416"
+  },
+  {
+    "review": "늘어지는 흡인력,독특한소재, 행운은 줄어들까 뺏는것일까.",
+    "date": "06.03.02",
+    "rating": "7",
+    "author": "tucr****",
+    "review_id": "700952",
+    "movie_id": "36416"
+  },
+  {
+    "review": "어리석기는..",
+    "date": "06.02.24",
+    "rating": "8",
+    "author": "hot1****",
+    "review_id": "689499",
+    "movie_id": "36416"
+  },
+  {
+    "review": "다소 억지스런 분위기의 영화. 새로움에는 칭찬을 하고 싶다.",
+    "date": "06.02.02",
+    "rating": "6",
+    "author": "defk****",
+    "review_id": "641378",
+    "movie_id": "36416"
+  },
+  {
+    "review": ".",
+    "date": "05.05.27",
+    "rating": "7",
+    "author": "m60d****",
+    "review_id": "287275",
+    "movie_id": "36416"
+  },
+  {
+    "review": "내용, 구성, 기지 이 세가지가 똘똘 뭉친 영화. 소재또한 새롭다",
+    "date": "05.04.26",
+    "rating": "10",
+    "author": "trau****",
+    "review_id": "266396",
+    "movie_id": "36416"
+  },
+  {
+    "review": "레오나르도 멋지다 기발한 영화",
+    "date": "05.03.27",
+    "rating": "10",
+    "author": "clea****",
+    "review_id": "248509",
+    "movie_id": "36416"
+  },
+  {
+    "review": "재미있네",
+    "date": "04.10.13",
+    "rating": "8",
+    "author": "arie****",
+    "review_id": "125242",
+    "movie_id": "36416"
+  },
+  {
+    "review": "번뜩이는 기지가 돋보이는 영화~!!",
+    "date": "04.08.08",
+    "rating": "10",
+    "author": "wint****",
+    "review_id": "86656",
+    "movie_id": "36416"
+  }
+]
