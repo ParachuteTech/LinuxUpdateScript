@@ -264,4 +264,59 @@
     "movie_id": "18561"
   },
   {
-    "r
+    "review": "지극한 현실을 판타지로 보여주는 영화. 웃음과 감동",
+    "date": "05.02.05",
+    "rating": "10",
+    "author": "kimj****",
+    "review_id": "207888",
+    "movie_id": "18561"
+  },
+  {
+    "review": "메멘토의 주인공과 메트릭스의 스미스 요원이 펼치는 게이쇼.ㅋㅋ",
+    "date": "04.12.25",
+    "rating": "10",
+    "author": "stop****",
+    "review_id": "168859",
+    "movie_id": "18561"
+  },
+  {
+    "review": "연기가 죽입니다. ㅠㅠ",
+    "date": "04.12.04",
+    "rating": "10",
+    "author": "lala****",
+    "review_id": "156467",
+    "movie_id": "18561"
+  },
+  {
+    "review": "판타스틱!! 감동!!",
+    "date": "04.11.11",
+    "rating": "10",
+    "author": "dong****",
+    "review_id": "143983",
+    "movie_id": "18561"
+  },
+  {
+    "review": "연기도, 의상도, 내용도 모두 만점!",
+    "date": "04.09.07",
+    "rating": "10",
+    "author": "tari****",
+    "review_id": "104379",
+    "movie_id": "18561"
+  },
+  {
+    "review": "오~! 정말 환상적이네요..특이해!!!~>_신고",
+    "date": "04.07.19",
+    "rating": "10",
+    "author": "spri****",
+    "review_id": "73152",
+    "movie_id": "18561"
+  },
+  {
+    "review": "FANTASTIC!",
+    "date": "04.01.23",
+    "rating": "10",
+    "author": "no_i****",
+    "review_id": "12616",
+    "movie_id": "18561"
+  }
+]
