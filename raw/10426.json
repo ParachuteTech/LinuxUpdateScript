@@ -50,4 +50,17 @@
   {
     "review": "내가 1점주면 5.5점 ㅋㅋ",
     "date": "09.07.31",
-    "r
+    "rating": "1",
+    "author": "jhb1****",
+    "review_id": "3688026",
+    "movie_id": "10426"
+  },
+  {
+    "review": "내가 처음인가?",
+    "date": "08.11.16",
+    "rating": "10",
+    "author": "ming****",
+    "review_id": "3054048",
+    "movie_id": "10426"
+  }
+]
