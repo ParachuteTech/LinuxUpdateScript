@@ -186,4 +186,225 @@
   {
     "review": "아~ 난 어릴때 졸라 잼잇게 웃으며 봣는데..",
     "date": "07.09.11",
-  
+    "rating": "10",
+    "author": "revo****",
+    "review_id": "2014038",
+    "movie_id": "17206"
+  },
+  {
+    "review": "꼬리도 살랑살랑, 그리고 멍멍.",
+    "date": "07.08.18",
+    "rating": "5",
+    "author": "tori****",
+    "review_id": "1954086",
+    "movie_id": "17206"
+  },
+  {
+    "review": "응큼한 발상. 그 당시에 봐도 촌스러웠던 영상미. 김지호의 어색한 연기력.",
+    "date": "07.08.09",
+    "rating": "2",
+    "author": "lsh1****",
+    "review_id": "1907582",
+    "movie_id": "17206"
+  },
+  {
+    "review": "재미도 없었고...",
+    "date": "07.08.07",
+    "rating": "4",
+    "author": "typo****",
+    "review_id": "1895892",
+    "movie_id": "17206"
+  },
+  {
+    "review": "조금은 유치해도 불만은 못 느꼈던 코미디..",
+    "date": "07.07.22",
+    "rating": "7",
+    "author": "skat****",
+    "review_id": "1798880",
+    "movie_id": "17206"
+  },
+  {
+    "review": "어렸을적 나름 웃으면서 봤던 기억이 ^^",
+    "date": "07.05.21",
+    "rating": "7",
+    "author": "bboj****",
+    "review_id": "1649101",
+    "movie_id": "17206"
+  },
+  {
+    "review": "꽤 흥미롭게 보았는데",
+    "date": "07.02.01",
+    "rating": "8",
+    "author": "tpsx****",
+    "review_id": "1432489",
+    "movie_id": "17206"
+  },
+  {
+    "review": "이혜영, 김지호의 각선미 대결.",
+    "date": "07.01.04",
+    "rating": "8",
+    "author": "elf2****",
+    "review_id": "1355615",
+    "movie_id": "17206"
+  },
+  {
+    "review": "박중훈 조금만 나와서 아쉽다....",
+    "date": "06.09.19",
+    "rating": "10",
+    "author": "well****",
+    "review_id": "1132001",
+    "movie_id": "17206"
+  },
+  {
+    "review": "기발한 상상력이긴했는데, 에피소드가 너무 무난했다.",
+    "date": "06.08.14",
+    "rating": "6",
+    "author": "bajj****",
+    "review_id": "1030917",
+    "movie_id": "17206"
+  },
+  {
+    "review": "정말 재미없다-_-",
+    "date": "06.08.14",
+    "rating": "1",
+    "author": "vita****",
+    "review_id": "1029012",
+    "movie_id": "17206"
+  },
+  {
+    "review": "나름데로......감동",
+    "date": "06.08.02",
+    "rating": "10",
+    "author": "ufof****",
+    "review_id": "956698",
+    "movie_id": "17206"
+  },
+  {
+    "review": "어설퍼",
+    "date": "06.08.02",
+    "rating": "8",
+    "author": "zeed****",
+    "review_id": "956126",
+    "movie_id": "17206"
+  },
+  {
+    "review": "한국 영화 이때는 전부다가 어설프고 유치했다. 근데 재밌었어",
+    "date": "06.05.21",
+    "rating": "6",
+    "author": "donj****",
+    "review_id": "810760",
+    "movie_id": "17206"
+  },
+  {
+    "review": "재밌게 봤는데 어렸을 때 -_-",
+    "date": "06.01.15",
+    "rating": "10",
+    "author": "kzer****",
+    "review_id": "590380",
+    "movie_id": "17206"
+  },
+  {
+    "review": "뭐이래 김지호 왜 나왔어?",
+    "date": "05.12.24",
+    "rating": "3",
+    "author": "kws7****",
+    "review_id": "525630",
+    "movie_id": "17206"
+  },
+  {
+    "review": "좀 더 신경써야 되는데 동물하고 매치가 좀 부족.",
+    "date": "05.12.24",
+    "rating": "7",
+    "author": "blue****",
+    "review_id": "523992",
+    "movie_id": "17206"
+  },
+  {
+    "review": "현대인은 남자를 개로 보는가 보다.",
+    "date": "05.12.11",
+    "rating": "2",
+    "author": "tara****",
+    "review_id": "500745",
+    "movie_id": "17206"
+  },
+  {
+    "review": ".....5점짜리영화;;",
+    "date": "05.09.02",
+    "rating": "5",
+    "author": "hong****",
+    "review_id": "391083",
+    "movie_id": "17206"
+  },
+  {
+    "review": "이게 7점이 넘다니 네이버 별점은 쓰레기인 것이지",
+    "date": "05.08.02",
+    "rating": "1",
+    "author": "ziq9****",
+    "review_id": "348877",
+    "movie_id": "17206"
+  },
+  {
+    "review": "이러한소재를찾으려무던한노력을하셧네",
+    "date": "05.07.24",
+    "rating": "7",
+    "author": "izzo****",
+    "review_id": "332446",
+    "movie_id": "17206"
+  },
+  {
+    "review": "ㅋㅋㅋ난 이런 영화 좋아요",
+    "date": "05.05.22",
+    "rating": "10",
+    "author": "toyo****",
+    "review_id": "284136",
+    "movie_id": "17206"
+  },
+  {
+    "review": "만족감이 거의 없는 영화, 개에게 큰 한표를 주고 싶다",
+    "date": "05.05.19",
+    "rating": "4",
+    "author": "si2p****",
+    "review_id": "280788",
+    "movie_id": "17206"
+  },
+  {
+    "review": "평범한 소재의 범작. 당시 인기가 높았던 김지호를 보는건 좋았다.",
+    "date": "05.01.16",
+    "rating": "7",
+    "author": "kpcc****",
+    "review_id": "187856",
+    "movie_id": "17206"
+  },
+  {
+    "review": "재미있게 봤다^^",
+    "date": "05.01.12",
+    "rating": "10",
+    "author": "kyun****",
+    "review_id": "183434",
+    "movie_id": "17206"
+  },
+  {
+    "review": "괜찮아요",
+    "date": "04.12.26",
+    "rating": "10",
+    "author": "cine****",
+    "review_id": "169763",
+    "movie_id": "17206"
+  },
+  {
+    "review": "망가진 김지호",
+    "date": "04.04.06",
+    "rating": "3",
+    "author": "jhg2****",
+    "review_id": "34650",
+    "movie_id": "17206"
+  },
+  {
+    "review": "섹시한김지호...",
+    "date": "04.01.08",
+    "rating": "10",
+    "author": "kuma****",
+    "review_id": "9121",
+    "movie_id": "17206"
+  }
+]
