@@ -92,4 +92,23 @@
     "date": "05.12.10",
     "rating": "9",
     "author": "topk****",
-    "review_id
+    "review_id": "499349",
+    "movie_id": "16509"
+  },
+  {
+    "review": "나가봤던일본영화중 최고",
+    "date": "05.10.18",
+    "rating": "10",
+    "author": "yjy3****",
+    "review_id": "447093",
+    "movie_id": "16509"
+  },
+  {
+    "review": "배우 다카쿠라 켄의 연기력이 짱이다!!",
+    "date": "04.11.17",
+    "rating": "8",
+    "author": "thre****",
+    "review_id": "147194",
+    "movie_id": "16509"
+  }
+]
