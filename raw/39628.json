@@ -61,4 +61,30 @@
     "rating": "8",
     "author": "zeed****",
     "review_id": "960242",
-    "movie_id"
+    "movie_id": "39628"
+  },
+  {
+    "review": "굿",
+    "date": "06.01.27",
+    "rating": "10",
+    "author": "leel****",
+    "review_id": "624553",
+    "movie_id": "39628"
+  },
+  {
+    "review": "채림 너무 안어울리는...",
+    "date": "05.10.30",
+    "rating": "5",
+    "author": "ilov****",
+    "review_id": "459748",
+    "movie_id": "39628"
+  },
+  {
+    "review": "깔깔깔 ~~ 좋아좋아",
+    "date": "05.09.15",
+    "rating": "10",
+    "author": "cool****",
+    "review_id": "406442",
+    "movie_id": "39628"
+  }
+]
