@@ -731,4 +731,72 @@
     "review": "다시 봤는데...생각보다 꽤 잘 만들어진 영화인 듯 싶다.",
     "date": "04.11.25",
     "rating": "5",
-    "au
+    "author": "wima****",
+    "review_id": "151592",
+    "movie_id": "10190"
+  },
+  {
+    "review": "아놀드 슈왈제네거  멋지다~!! 오우",
+    "date": "04.11.22",
+    "rating": "7",
+    "author": "limj****",
+    "review_id": "150325",
+    "movie_id": "10190"
+  },
+  {
+    "review": "영상,연기,음악 모두 최고의 영화!!!!!!!!!!!!!!",
+    "date": "04.11.12",
+    "rating": "10",
+    "author": "kkpp****",
+    "review_id": "144425",
+    "movie_id": "10190"
+  },
+  {
+    "review": "코난의 마지막 시리즈도 밀리어스 감독과 슈왈제네거 형님이 고려 중이라는데",
+    "date": "04.11.09",
+    "rating": "10",
+    "author": "shek****",
+    "review_id": "142572",
+    "movie_id": "10190"
+  },
+  {
+    "review": "아오 코난 흥님",
+    "date": "04.11.03",
+    "rating": "10",
+    "author": "los9****",
+    "review_id": "138439",
+    "movie_id": "10190"
+  },
+  {
+    "review": "아놀드를 위한영화이자명작",
+    "date": "04.10.12",
+    "rating": "10",
+    "author": "mars****",
+    "review_id": "124420",
+    "movie_id": "10190"
+  },
+  {
+    "review": "압박에 못이겨 점수를 주리다",
+    "date": "04.08.27",
+    "rating": "10",
+    "author": "tmda****",
+    "review_id": "98099",
+    "movie_id": "10190"
+  },
+  {
+    "review": "옛날영화같지않게 재밌다.",
+    "date": "04.08.10",
+    "rating": "10",
+    "author": "slob****",
+    "review_id": "87829",
+    "movie_id": "10190"
+  },
+  {
+    "review": "정말 지루했다...ㅡ;;ㅡ;;",
+    "date": "04.07.13",
+    "rating": "2",
+    "author": "yasi****",
+    "review_id": "70248",
+    "movie_id": "10190"
+  }
+]
