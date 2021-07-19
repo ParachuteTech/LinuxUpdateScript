@@ -562,4 +562,241 @@
   {
     "review": "코미디영화^^",
     "date": "08.06.26",
-  
+    "rating": "10",
+    "author": "mist****",
+    "review_id": "2721279",
+    "movie_id": "38836"
+  },
+  {
+    "review": "웃겨 죽을뻔했는데 ㅋㅋ",
+    "date": "08.06.15",
+    "rating": "10",
+    "author": "oreg****",
+    "review_id": "2699983",
+    "movie_id": "38836"
+  },
+  {
+    "review": "너무 뻔한  이야기 너무 펀f(un)한 이야기",
+    "date": "08.02.26",
+    "rating": "5",
+    "author": "meth****",
+    "review_id": "2483805",
+    "movie_id": "38836"
+  },
+  {
+    "review": "그건 알고봐라, 벤 스틸러랑 크리스틴 테일러- 부부다.",
+    "date": "08.02.22",
+    "rating": "10",
+    "author": "oops****",
+    "review_id": "2472377",
+    "movie_id": "38836"
+  },
+  {
+    "review": "재밌네여",
+    "date": "08.01.28",
+    "rating": "10",
+    "author": "mvps****",
+    "review_id": "2379668",
+    "movie_id": "38836"
+  },
+  {
+    "review": "빈스본하구 벤스틸러 나오길레 잼있을줄알았는데; 에휴",
+    "date": "07.12.02",
+    "rating": "1",
+    "author": "skeh****",
+    "review_id": "2202072",
+    "movie_id": "38836"
+  },
+  {
+    "review": "분전한 벤 스틸러",
+    "date": "07.11.29",
+    "rating": "5",
+    "author": "liho****",
+    "review_id": "2191878",
+    "movie_id": "38836"
+  },
+  {
+    "review": "생각보다 별로~ㅋㅋ 벤스틸러만 너무 진지했다 저스틴롱 귀여워",
+    "date": "07.11.09",
+    "rating": "6",
+    "author": "xjam****",
+    "review_id": "2140754",
+    "movie_id": "38836"
+  },
+  {
+    "review": "할리우드판 주성치영화라고 할까ㅋㅋ",
+    "date": "07.11.07",
+    "rating": "10",
+    "author": "bonz****",
+    "review_id": "2138332",
+    "movie_id": "38836"
+  },
+  {
+    "review": "단순히 웃고즐기기엔나쁘지않은영화",
+    "date": "07.10.23",
+    "rating": "7",
+    "author": "aqzz****",
+    "review_id": "2107129",
+    "movie_id": "38836"
+  },
+  {
+    "review": "한심한 코리안들에겐 조폭마누라나 코미디 영화겠지 . ㅋㅋㅋㅋ",
+    "date": "07.10.21",
+    "rating": "10",
+    "author": "sodo****",
+    "review_id": "2104360",
+    "movie_id": "38836"
+  },
+  {
+    "review": "좀더 다이나믹하게 만들었음 잼있었을텐데,, 유머는 괜찬음,,",
+    "date": "07.10.04",
+    "rating": "6",
+    "author": "love****",
+    "review_id": "2070555",
+    "movie_id": "38836"
+  },
+  {
+    "review": "남들 다 서든어택하는데 혼자서 둠2하는 영화",
+    "date": "07.10.02",
+    "rating": "1",
+    "author": "stra****",
+    "review_id": "2066402",
+    "movie_id": "38836"
+  },
+  {
+    "review": "점수가 왜 이 모양이야...웃기기만 하구먼...",
+    "date": "07.09.03",
+    "rating": "10",
+    "author": "1pim****",
+    "review_id": "1998232",
+    "movie_id": "38836"
+  },
+  {
+    "review": "쓰레기 코메디... 그렇지만 재미있다.",
+    "date": "07.08.21",
+    "rating": "7",
+    "author": "free****",
+    "review_id": "1967429",
+    "movie_id": "38836"
+  },
+  {
+    "review": "코미디 영화인데 주인공은  한번도 웃기지 못하는 신기한 영화",
+    "date": "07.07.25",
+    "rating": "4",
+    "author": "nala****",
+    "review_id": "1808890",
+    "movie_id": "38836"
+  },
+  {
+    "review": "기름 쫙 뺀 코미디. 진심으로 즐겁다",
+    "date": "07.07.20",
+    "rating": "7",
+    "author": "cube****",
+    "review_id": "1793418",
+    "movie_id": "38836"
+  },
+  {
+    "review": "ㅋㅋㅋㅋㅋ 재밌는 코미디!",
+    "date": "07.07.19",
+    "rating": "9",
+    "author": "good****",
+    "review_id": "1791922",
+    "movie_id": "38836"
+  },
+  {
+    "review": "웃겨",
+    "date": "07.07.14",
+    "rating": "10",
+    "author": "rlat****",
+    "review_id": "1773014",
+    "movie_id": "38836"
+  },
+  {
+    "review": "아무생각 없이 웃으면서 보면 괜찬은 영화다...벤스틸러도 좋고...",
+    "date": "07.07.05",
+    "rating": "7",
+    "author": "some****",
+    "review_id": "1747672",
+    "movie_id": "38836"
+  },
+  {
+    "review": "재밌음",
+    "date": "07.07.02",
+    "rating": "10",
+    "author": "wndd****",
+    "review_id": "1741613",
+    "movie_id": "38836"
+  },
+  {
+    "review": "이건 너무 쌍팔년도식 개그 아닌가..",
+    "date": "07.07.02",
+    "rating": "3",
+    "author": "skat****",
+    "review_id": "1741609",
+    "movie_id": "38836"
+  },
+  {
+    "review": "잼있는부분도 있었는데..ㅎㅎㅎ 어설픈 부분이 많을 줄이야...",
+    "date": "07.06.25",
+    "rating": "6",
+    "author": "daes****",
+    "review_id": "1719553",
+    "movie_id": "38836"
+  },
+  {
+    "review": "벤포스터는 정말 최강..ㅋㅋ",
+    "date": "07.06.02",
+    "rating": "10",
+    "author": "navy****",
+    "review_id": "1678184",
+    "movie_id": "38836"
+  },
+  {
+    "review": "아 배꼽어디가",
+    "date": "07.05.24",
+    "rating": "10",
+    "author": "asun****",
+    "review_id": "1656249",
+    "movie_id": "38836"
+  },
+  {
+    "review": "이영화가미국에서꽤히트작입니다.킬링타임용으로좋습니다 벤형님 포OO휘",
+    "date": "07.05.15",
+    "rating": "10",
+    "author": "ghcl****",
+    "review_id": "1640501",
+    "movie_id": "38836"
+  },
+  {
+    "review": "이런류의 영화는 재밌으면 그만~ㅎ",
+    "date": "07.03.19",
+    "rating": "8",
+    "author": "rams****",
+    "review_id": "1543349",
+    "movie_id": "38836"
+  },
+  {
+    "review": "정확히말하면 킬링타임 수준 ㅋㅋ 웃기는면에선 좋다.",
+    "date": "07.03.17",
+    "rating": "7",
+    "author": "minh****",
+    "review_id": "1538772",
+    "movie_id": "38836"
+  },
+  {
+    "review": "코미디로 보면 재밌다 ㅋㅋㅋ",
+    "date": "07.03.09",
+    "rating": "10",
+    "author": "0107****",
+    "review_id": "1525822",
+    "movie_id": "38836"
+  },
+  {
+    "review": "코미디영화는 웃기면 됫지 뭐",
+    "date": "07.03.08",
+    "rating": "8",
+    "author": "rudc****",
+    "review_id": "1524598",
+    "movie_id": "38836"
+  }
+]
