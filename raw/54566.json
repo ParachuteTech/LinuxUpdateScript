@@ -525,3 +525,31 @@
     "date": "09.06.27",
     "rating": "10",
     "author": "soon****",
+    "review_id": "3594123",
+    "movie_id": "54566"
+  },
+  {
+    "review": "죽음으로써 삶을 다시 생각하게 하는 영화",
+    "date": "09.06.27",
+    "rating": "10",
+    "author": "sout****",
+    "review_id": "3594109",
+    "movie_id": "54566"
+  },
+  {
+    "review": "나래이션이 이끌어가는 독특한 기법의 영화인데 나름대로 괜찮네",
+    "date": "09.06.25",
+    "rating": "10",
+    "author": "hang****",
+    "review_id": "3590296",
+    "movie_id": "54566"
+  },
+  {
+    "review": "죽기 전에 참고(?)할 만한 영화",
+    "date": "09.06.25",
+    "rating": "10",
+    "author": "seri****",
+    "review_id": "3589352",
+    "movie_id": "54566"
+  }
+]
