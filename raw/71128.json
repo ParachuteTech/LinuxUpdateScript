@@ -723,3 +723,81 @@
   {
     "review": "푸하하... 잔잔하게 웃기고 나름 신선하다.",
     "date": "10.08.31",
+    "rating": "7",
+    "author": "mido****",
+    "review_id": "4807997",
+    "movie_id": "71128"
+  },
+  {
+    "review": "병맛으로 어필하려는건가....",
+    "date": "10.08.30",
+    "rating": "3",
+    "author": "1pim****",
+    "review_id": "4806319",
+    "movie_id": "71128"
+  },
+  {
+    "review": "순전히 마이클과 저스틴이 같이 나와 본영화. 다만 스토리가 지루했다",
+    "date": "10.08.28",
+    "rating": "5",
+    "author": "iras****",
+    "review_id": "4799985",
+    "movie_id": "71128"
+  },
+  {
+    "review": "은근히 웃겼던 ㅋㅋ",
+    "date": "10.08.28",
+    "rating": "7",
+    "author": "jsy4****",
+    "review_id": "4797620",
+    "movie_id": "71128"
+  },
+  {
+    "review": "누구나 꿈꿔봤을 법한 청소년기의 유쾌한 일탈",
+    "date": "10.08.27",
+    "rating": "8",
+    "author": "bles****",
+    "review_id": "4796155",
+    "movie_id": "71128"
+  },
+  {
+    "review": "내용이 원. 학창기에 있는 분들에게 추천",
+    "date": "10.08.27",
+    "rating": "5",
+    "author": "sail****",
+    "review_id": "4795257",
+    "movie_id": "71128"
+  },
+  {
+    "review": "재밌었는데 마이클 세라는 제발 목소리좀 키워라... 뭐라하는지 하나도 안들림",
+    "date": "10.08.26",
+    "rating": "8",
+    "author": "sdan****",
+    "review_id": "4794267",
+    "movie_id": "71128"
+  },
+  {
+    "review": "주인공이 아닌 영화를 보는 나로서는 흥미가 없었다",
+    "date": "10.08.26",
+    "rating": "6",
+    "author": "tpau****",
+    "review_id": "4793912",
+    "movie_id": "71128"
+  },
+  {
+    "review": "수채화빛 파이트클럽 오마주.",
+    "date": "10.08.26",
+    "rating": "8",
+    "author": "lees****",
+    "review_id": "4792604",
+    "movie_id": "71128"
+  },
+  {
+    "review": "10년전에 나도 그럤는데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+    "date": "10.08.25",
+    "rating": "10",
+    "author": "choj****",
+    "review_id": "4792197",
+    "movie_id": "71128"
+  }
+]
