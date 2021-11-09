@@ -85,3 +85,39 @@
     "movie_id": "95846",
     "author": "hyde****",
     "review": "삶에서 그대로 받아들이지 못한 죽음과 폭력을 영상과 사진으로, 그것에 유물이라는 이름이 붙는다면",
+    "rating": "1",
+    "date": "13.06.17"
+  },
+  {
+    "review_id": "7609810",
+    "movie_id": "95846",
+    "author": "zzzm****",
+    "review": "좋다",
+    "rating": "10",
+    "date": "13.06.08"
+  },
+  {
+    "review_id": "7593490",
+    "movie_id": "95846",
+    "author": "nhg1****",
+    "review": "좋다",
+    "rating": "10",
+    "date": "13.06.06"
+  },
+  {
+    "review_id": "7591622",
+    "movie_id": "95846",
+    "author": "apre****",
+    "review": "기록은 남고, 시간은 흐른다.",
+    "rating": "9",
+    "date": "13.06.06"
+  },
+  {
+    "review_id": "7587525",
+    "movie_id": "95846",
+    "author": "reke****",
+    "review": "비켜 맨 오브 스틸 봐야돼",
+    "rating": "1",
+    "date": "13.06.06"
+  }
+]
