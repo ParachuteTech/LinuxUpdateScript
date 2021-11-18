@@ -201,4 +201,130 @@
   },
   {
     "review": "깔끔한 엔딩이 마음에 들었다.",
- 
+    "date": "06.05.17",
+    "rating": "8",
+    "author": "iwan****",
+    "review_id": "803478",
+    "movie_id": "56788"
+  },
+  {
+    "review": "은근히 끌리는 영화.. 그리고 '잉그리드 루비오'",
+    "date": "06.05.03",
+    "rating": "8",
+    "author": "lshp****",
+    "review_id": "784193",
+    "movie_id": "56788"
+  },
+  {
+    "review": "정말 특이한 소재 빼놓으면.. 아무것도 없다",
+    "date": "06.04.29",
+    "rating": "4",
+    "author": "ente****",
+    "review_id": "779594",
+    "movie_id": "56788"
+  },
+  {
+    "review": "색다른 엔딩이 맘에 들어서.. 잼있었던 영화 ㅋㅋ",
+    "date": "06.04.20",
+    "rating": "7",
+    "author": "kiyo****",
+    "review_id": "768993",
+    "movie_id": "56788"
+  },
+  {
+    "review": "은근한 재미가 있다 (단 포스터에 대한 기대는 포기하라)",
+    "date": "06.04.10",
+    "rating": "7",
+    "author": "gall****",
+    "review_id": "757054",
+    "movie_id": "56788"
+  },
+  {
+    "review": "감독의 판타지는 xxx급",
+    "date": "06.04.09",
+    "rating": "4",
+    "author": "seoy****",
+    "review_id": "755715",
+    "movie_id": "56788"
+  },
+  {
+    "review": "웃기지도 않고 그저 그런 영화.",
+    "date": "06.03.28",
+    "rating": "2",
+    "author": "sole****",
+    "review_id": "738757",
+    "movie_id": "56788"
+  },
+  {
+    "review": "사악한 여자와 멍청하고 순진한 남자들. 엔딩이 최고다.",
+    "date": "06.03.20",
+    "rating": "9",
+    "author": "miya****",
+    "review_id": "725645",
+    "movie_id": "56788"
+  },
+  {
+    "review": "잼나던데~시간때우기용^^;",
+    "date": "06.01.18",
+    "rating": "10",
+    "author": "tmdt****",
+    "review_id": "597100",
+    "movie_id": "56788"
+  },
+  {
+    "review": "재미없다..",
+    "date": "06.01.11",
+    "rating": "1",
+    "author": "yaho****",
+    "review_id": "578706",
+    "movie_id": "56788"
+  },
+  {
+    "review": "그럭저럭 볼 만한 섹스 코미디",
+    "date": "06.01.10",
+    "rating": "4",
+    "author": "ky21****",
+    "review_id": "578370",
+    "movie_id": "56788"
+  },
+  {
+    "review": "인생 참 보면 평범한데 꼭 특별하게 살라고 노력하는 사람있네..",
+    "date": "06.01.10",
+    "rating": "7",
+    "author": "sm3b****",
+    "review_id": "575845",
+    "movie_id": "56788"
+  },
+  {
+    "review": "남자배우가 여러번 날 웃겼다. ㅋㅋㅋ",
+    "date": "06.01.07",
+    "rating": "9",
+    "author": "chan****",
+    "review_id": "568864",
+    "movie_id": "56788"
+  },
+  {
+    "review": "포스터와 제목을 완전히 깨주는 영화",
+    "date": "05.12.13",
+    "rating": "8",
+    "author": "bono****",
+    "review_id": "503524",
+    "movie_id": "56788"
+  },
+  {
+    "review": "제목만큼 죽여주는 영화는 아니었다.",
+    "date": "05.12.10",
+    "rating": "5",
+    "author": "ia_e****",
+    "review_id": "499938",
+    "movie_id": "56788"
+  },
+  {
+    "review": "포스터와 제목만으로 판단되지 말아야 할 영화",
+    "date": "05.12.09",
+    "rating": "10",
+    "author": "vkar****",
+    "review_id": "498621",
+    "movie_id": "56788"
+  }
+]
