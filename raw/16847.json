@@ -754,4 +754,49 @@
   {
     "review": "이때의 주성치영화가 좋다",
     "date": "06.06.07",
-    "rati
+    "rating": "10",
+    "author": "cjon****",
+    "review_id": "835364",
+    "movie_id": "16847"
+  },
+  {
+    "review": "주성치초기작들은 입놀림보다는 홍콩식발놀림에가까웠군...",
+    "date": "06.05.21",
+    "rating": "7",
+    "author": "izzo****",
+    "review_id": "810860",
+    "movie_id": "16847"
+  },
+  {
+    "review": "주성치 조낸동안으로 나온다 장민과 최고의 커플!!",
+    "date": "06.04.08",
+    "rating": "10",
+    "author": "xowl****",
+    "review_id": "753682",
+    "movie_id": "16847"
+  },
+  {
+    "review": "15년전 영화인데 지금 만드는 영화들 보다 휠씬 낳다~",
+    "date": "06.03.30",
+    "rating": "9",
+    "author": "dlsk****",
+    "review_id": "741040",
+    "movie_id": "16847"
+  },
+  {
+    "review": "주성치를 좋아할 수 밖에 없다",
+    "date": "06.02.20",
+    "rating": "9",
+    "author": "atzu****",
+    "review_id": "681869",
+    "movie_id": "16847"
+  },
+  {
+    "review": "학교잡입이라는 특이한 소재와 주성치 특유의 코믹연기의 조합",
+    "date": "06.02.18",
+    "rating": "4",
+    "author": "okjo****",
+    "review_id": "678682",
+    "movie_id": "16847"
+  }
+]
