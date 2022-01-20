@@ -546,4 +546,81 @@
   {
     "review": "중학교때 남겨졌던 그 충격~ 아직도 잊혀지지 않는다~",
     "date": "05.05.13",
-   
+    "rating": "10",
+    "author": "idah****",
+    "review_id": "276754",
+    "movie_id": "14511"
+  },
+  {
+    "review": "잔인한 장면은 적당히 감추고 강약조절도 잘 됐어요.",
+    "date": "05.02.04",
+    "rating": "9",
+    "author": "gaba****",
+    "review_id": "207803",
+    "movie_id": "14511"
+  },
+  {
+    "review": "밑에 리뷰에 속았다. 2004년 현재 관객의 수준에는 한참 미달되는 영화",
+    "date": "04.11.27",
+    "rating": "1",
+    "author": "anar****",
+    "review_id": "152651",
+    "movie_id": "14511"
+  },
+  {
+    "review": "제가 본 최고의 공포영화였습니다.",
+    "date": "04.09.17",
+    "rating": "10",
+    "author": "smte****",
+    "review_id": "109761",
+    "movie_id": "14511"
+  },
+  {
+    "review": "추천합니다....정말 공포영화라면 이정도는 되야죠..",
+    "date": "04.09.04",
+    "rating": "10",
+    "author": "desi****",
+    "review_id": "102426",
+    "movie_id": "14511"
+  },
+  {
+    "review": "나 진짜 무섭게봤는데;;",
+    "date": "04.08.17",
+    "rating": "10",
+    "author": "desi****",
+    "review_id": "91517",
+    "movie_id": "14511"
+  },
+  {
+    "review": "굉장히 재밌게 봤음  예전에 보고 최근에 봤는데도 재밌다",
+    "date": "04.07.31",
+    "rating": "9",
+    "author": "leve****",
+    "review_id": "80221",
+    "movie_id": "14511"
+  },
+  {
+    "review": "짜증나는 영화 추천하고싶지않습니다",
+    "date": "04.06.26",
+    "rating": "1",
+    "author": "mgkn****",
+    "review_id": "60745",
+    "movie_id": "14511"
+  },
+  {
+    "review": "전 공포영화중에 이것이 공포 영화라고 여길 만큼 잼 있게 보았습니다",
+    "date": "04.05.29",
+    "rating": "9",
+    "author": "opc2****",
+    "review_id": "47155",
+    "movie_id": "14511"
+  },
+  {
+    "review": "미켈레 소아비 감독 답게 잘 만든것 같다..",
+    "date": "04.03.20",
+    "rating": "10",
+    "author": "enou****",
+    "review_id": "30211",
+    "movie_id": "14511"
+  }
+]
