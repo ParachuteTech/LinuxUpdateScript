@@ -651,3 +651,40 @@
     "review": "좋아요",
     "date": "04.06.01",
     "rating": "10",
+    "author": "amwh****",
+    "review_id": "48442",
+    "movie_id": "31577"
+  },
+  {
+    "review": "재미있당",
+    "date": "04.06.01",
+    "rating": "10",
+    "author": "dpsw****",
+    "review_id": "48386",
+    "movie_id": "31577"
+  },
+  {
+    "review": "그냥 그런...",
+    "date": "04.06.01",
+    "rating": "5",
+    "author": "umta****",
+    "review_id": "48346",
+    "movie_id": "31577"
+  },
+  {
+    "review": "뭔가가 좀 부족한 느낌이 드는데....",
+    "date": "04.04.08",
+    "rating": "4",
+    "author": "mand****",
+    "review_id": "34904",
+    "movie_id": "31577"
+  },
+  {
+    "review": "영화 포스터 멋진데 비해서, 스토리는 좀 실망적인",
+    "date": "04.02.21",
+    "rating": "3",
+    "author": "lily****",
+    "review_id": "22350",
+    "movie_id": "31577"
+  }
+]
