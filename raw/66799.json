@@ -130,3 +130,41 @@
   {
     "review": "씁쓸하기도하고...",
     "date": "09.01.04",
+    "rating": "8",
+    "author": "flyh****",
+    "review_id": "3185315",
+    "movie_id": "66799"
+  },
+  {
+    "review": "개인적으로 끝 깨달음을 주는 영화! 추천",
+    "date": "08.12.27",
+    "rating": "10",
+    "author": "sams****",
+    "review_id": "3157602",
+    "movie_id": "66799"
+  },
+  {
+    "review": "돈이 문제로구나..에고",
+    "date": "08.12.24",
+    "rating": "8",
+    "author": "1pim****",
+    "review_id": "3144020",
+    "movie_id": "66799"
+  },
+  {
+    "review": "어떻게 해서도 빠져나올수 없는 현실, 그 고달픈 현실에서 살아가는 두사람",
+    "date": "08.08.22",
+    "rating": "7",
+    "author": "hbc1****",
+    "review_id": "2895461",
+    "movie_id": "66799"
+  },
+  {
+    "review": "삶의 고달픔의 극단적인 모습들.",
+    "date": "08.06.24",
+    "rating": "8",
+    "author": "cinc****",
+    "review_id": "2719188",
+    "movie_id": "66799"
+  }
+]
