@@ -665,4 +665,138 @@
   },
   {
     "review": "어렸을적 너무나도 재밌게 봤던 영화.",
-    "date"
+    "date": "09.01.11",
+    "rating": "10",
+    "author": "yoon****",
+    "review_id": "3210989",
+    "movie_id": "10116"
+  },
+  {
+    "review": "어른을 위한 한편의 동화 같은 영화",
+    "date": "08.12.17",
+    "rating": "10",
+    "author": "youn****",
+    "review_id": "3125478",
+    "movie_id": "10116"
+  },
+  {
+    "review": "톰행크스의 초기 모습과 다릴하나의 매력.. 그녀는 지금 뭐하는지..",
+    "date": "08.12.04",
+    "rating": "8",
+    "author": "deff****",
+    "review_id": "3089555",
+    "movie_id": "10116"
+  },
+  {
+    "review": "내가 태어나기도 전의 영화.  나를 꿈꾸게 하다.",
+    "date": "08.11.21",
+    "rating": "9",
+    "author": "aqua****",
+    "review_id": "3063358",
+    "movie_id": "10116"
+  },
+  {
+    "review": "너무 훈훈한 영화, 보고나니 기분이 좋네요~",
+    "date": "08.10.15",
+    "rating": "10",
+    "author": "kagu****",
+    "review_id": "3001135",
+    "movie_id": "10116"
+  },
+  {
+    "review": "사춘기 시절 보고 몇일간 가슴앓이 했던 영화",
+    "date": "08.09.28",
+    "rating": "10",
+    "author": "tcap****",
+    "review_id": "2972514",
+    "movie_id": "10116"
+  },
+  {
+    "review": "이걸보고 난 중1때 잠을설쳐써",
+    "date": "08.08.28",
+    "rating": "10",
+    "author": "0103****",
+    "review_id": "2907242",
+    "movie_id": "10116"
+  },
+  {
+    "review": "어릴때 재밌게 본 영화 굉장히 괜찮다",
+    "date": "08.08.07",
+    "rating": "10",
+    "author": "dake****",
+    "review_id": "2844680",
+    "movie_id": "10116"
+  },
+  {
+    "review": "동화와 현실의 만남. 아직도 꿈틀거리던 지느러미가 선하다.",
+    "date": "08.07.15",
+    "rating": "6",
+    "author": "jere****",
+    "review_id": "2765222",
+    "movie_id": "10116"
+  },
+  {
+    "review": "순수함과 풋풋함의 그리움.",
+    "date": "08.07.05",
+    "rating": "8",
+    "author": "befo****",
+    "review_id": "2741659",
+    "movie_id": "10116"
+  },
+  {
+    "review": "어렸을 때 봤을 때 영화 속 인어속 꼬리가 너무나 신비롭게 보였던.",
+    "date": "08.06.09",
+    "rating": "10",
+    "author": "devo****",
+    "review_id": "2690528",
+    "movie_id": "10116"
+  },
+  {
+    "review": "인어공주의 재해석",
+    "date": "08.05.27",
+    "rating": "7",
+    "author": "meth****",
+    "review_id": "2666081",
+    "movie_id": "10116"
+  },
+  {
+    "review": "다운받아서  16년만에 다시봤네요  다시보니 감회가 새롭고역시나 잼있군요 감동 ㅡㅠ",
+    "date": "08.04.18",
+    "rating": "10",
+    "author": "kkak****",
+    "review_id": "2586396",
+    "movie_id": "10116"
+  },
+  {
+    "review": "아름다운 인어와의 마술같은 사랑이야기",
+    "date": "08.04.06",
+    "rating": "8",
+    "author": "stsp****",
+    "review_id": "2563397",
+    "movie_id": "10116"
+  },
+  {
+    "review": "다시보고싶은데 어케 보지 ㅎㅎ",
+    "date": "08.03.12",
+    "rating": "10",
+    "author": "bjye****",
+    "review_id": "2516734",
+    "movie_id": "10116"
+  },
+  {
+    "review": "진짜 어렸을 때 봤는데 지금도 기억속에 ㅋㅋㅋ",
+    "date": "08.02.16",
+    "rating": "10",
+    "author": "gkqr****",
+    "review_id": "2450140",
+    "movie_id": "10116"
+  },
+  {
+    "review": "졸 재밌다",
+    "date": "08.01.26",
+    "rating": "10",
+    "author": "dbsw****",
+    "review_id": "2372128",
+    "movie_id": "10116"
+  }
+]
