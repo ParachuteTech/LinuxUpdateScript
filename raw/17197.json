@@ -81,4 +81,427 @@
   },
   {
     "review": "돈이 있으면 세상에서 많을 일을 할 수 있다. 그러나 청춘은 돈으로 살 수 없다. 강렬한 제목과 더불어 설익은 청춘의 사랑과 아픔이 오랜 기억으로 남을 수작이다.",
-    "d
+    "date": "13.02.05",
+    "rating": "9",
+    "author": "kos4****",
+    "review_id": "7228093",
+    "movie_id": "17197"
+  },
+  {
+    "review": "전형적인90대영화.식상하고 상투적인 전개와 결말.배우들 연기만 좋았다.",
+    "date": "13.01.25",
+    "rating": "5",
+    "author": "a109****",
+    "review_id": "7170875",
+    "movie_id": "17197"
+  },
+  {
+    "review": "기억에서 지워지지 않는다",
+    "date": "13.01.16",
+    "rating": "10",
+    "author": "eve8****",
+    "review_id": "7122128",
+    "movie_id": "17197"
+  },
+  {
+    "review": "질풍노도의 19살에 대한 설득력이 더 강했더라면 하는 아쉬움.",
+    "date": "13.01.14",
+    "rating": "8",
+    "author": "doro****",
+    "review_id": "7116933",
+    "movie_id": "17197"
+  },
+  {
+    "review": "이영화보다  리얼리티한 영화는  지금까지 본적이없다,..!16년동안 한번도  내머리속을  떠나지잖는영화나에게 오라~~~~",
+    "date": "12.11.14",
+    "rating": "10",
+    "author": "ikal****",
+    "review_id": "6886729",
+    "movie_id": "17197"
+  },
+  {
+    "review": "ㅋㅋㅋ돌ㅋㅋㅋ",
+    "date": "12.11.09",
+    "rating": "9",
+    "author": "wing****",
+    "review_id": "6868880",
+    "movie_id": "17197"
+  },
+  {
+    "review": "여자에겐 아닌듯 하다... 하지만 명작이다",
+    "date": "12.11.02",
+    "rating": "10",
+    "author": "i_lo****",
+    "review_id": "6846854",
+    "movie_id": "17197"
+  },
+  {
+    "review": "줄거리 요약이 매우 문학적이군.",
+    "date": "12.10.19",
+    "rating": "10",
+    "author": "sibe****",
+    "review_id": "6811610",
+    "movie_id": "17197"
+  },
+  {
+    "review": "수작",
+    "date": "12.08.26",
+    "rating": "10",
+    "author": "hong****",
+    "review_id": "6644219",
+    "movie_id": "17197"
+  },
+  {
+    "review": "존나도의 실체를 보여주고만",
+    "date": "12.08.10",
+    "rating": "1",
+    "author": "tcp0****",
+    "review_id": "6588351",
+    "movie_id": "17197"
+  },
+  {
+    "review": "수작",
+    "date": "12.08.06",
+    "rating": "10",
+    "author": "ruri****",
+    "review_id": "6575844",
+    "movie_id": "17197"
+  },
+  {
+    "review": "최민수의 카리스마는 역시...",
+    "date": "12.06.01",
+    "rating": "6",
+    "author": "ccpp****",
+    "review_id": "6355043",
+    "movie_id": "17197"
+  },
+  {
+    "review": "성장영화라기엔 너무 비범한 유년기",
+    "date": "12.06.01",
+    "rating": "6",
+    "author": "rame****",
+    "review_id": "6355042",
+    "movie_id": "17197"
+  },
+  {
+    "review": "최민수의 무게 잡는 연기는 역시 일품",
+    "date": "12.06.01",
+    "rating": "6",
+    "author": "kpcc****",
+    "review_id": "6355039",
+    "movie_id": "17197"
+  },
+  {
+    "review": "박상민의 원맨쇼에 기댄채 다소 엉성한 플롯, 당대 카리스마3인의 조합은 썩 괜찮은편",
+    "date": "12.03.16",
+    "rating": "4",
+    "author": "goms****",
+    "review_id": "6148408",
+    "movie_id": "17197"
+  },
+  {
+    "review": "처음자막과 스토리 마지막엔딩자막을 끝으루보구나선..모냐 이건??",
+    "date": "11.12.01",
+    "rating": "1",
+    "author": "kis5****",
+    "review_id": "5880074",
+    "movie_id": "17197"
+  },
+  {
+    "review": "감독이 말하고자 하는 이야기를 찾고싶었던 영화..그러나 못 찾앗다는 ㅠㅠ",
+    "date": "11.10.24",
+    "rating": "8",
+    "author": "ilma****",
+    "review_id": "5808554",
+    "movie_id": "17197"
+  },
+  {
+    "review": "60년대풍 영화의 막둥이격인 영화...영화가 참 후졌다...",
+    "date": "11.10.01",
+    "rating": "5",
+    "author": "kiwi****",
+    "review_id": "5764912",
+    "movie_id": "17197"
+  },
+  {
+    "review": "돌멩이 씬~!! ㅋㅋㅋ",
+    "date": "11.06.30",
+    "rating": "7",
+    "author": "tn99****",
+    "review_id": "5508061",
+    "movie_id": "17197"
+  },
+  {
+    "review": "테러리스트보다 좋았다",
+    "date": "11.01.12",
+    "rating": "10",
+    "author": "rnal****",
+    "review_id": "5151951",
+    "movie_id": "17197"
+  },
+  {
+    "review": "춘근이가 여자덮칠때 돌멩이로 뭐하는건가요?",
+    "date": "10.10.31",
+    "rating": "10",
+    "author": "sssd****",
+    "review_id": "4930774",
+    "movie_id": "17197"
+  },
+  {
+    "review": "낙지대구빡도 젊었을땐 멋졌구나~ ㅋ",
+    "date": "10.09.20",
+    "rating": "7",
+    "author": "mm01****",
+    "review_id": "4849586",
+    "movie_id": "17197"
+  },
+  {
+    "review": "내가중3때본영화인데...참잼있게본영화...&^^",
+    "date": "10.07.03",
+    "rating": "10",
+    "author": "tjdt****",
+    "review_id": "4607246",
+    "movie_id": "17197"
+  },
+  {
+    "review": "최민수의 카리스마는 역시...",
+    "date": "10.06.08",
+    "rating": "8",
+    "author": "ccpk****",
+    "review_id": "4552917",
+    "movie_id": "17197"
+  },
+  {
+    "review": "젬 있음",
+    "date": "10.06.08",
+    "rating": "10",
+    "author": "bbky****",
+    "review_id": "4552597",
+    "movie_id": "17197"
+  },
+  {
+    "review": "아놔 씨발 진짜 욕이 저절로 나오네.....OOOO같은영화를 천원주고 받았네 OO에.",
+    "date": "10.04.01",
+    "rating": "1",
+    "author": "smar****",
+    "review_id": "4403282",
+    "movie_id": "17197"
+  },
+  {
+    "review": "흥행에 빛을 못 본 저주받은 걸작. 박상민 최고의 연기가 작렬한다",
+    "date": "10.03.13",
+    "rating": "9",
+    "author": "gall****",
+    "review_id": "4354922",
+    "movie_id": "17197"
+  },
+  {
+    "review": "최고입니다~!",
+    "date": "10.03.05",
+    "rating": "10",
+    "author": "blue****",
+    "review_id": "4336488",
+    "movie_id": "17197"
+  },
+  {
+    "review": "너에게 가마",
+    "date": "10.01.19",
+    "rating": "8",
+    "author": "pkh0****",
+    "review_id": "4186375",
+    "movie_id": "17197"
+  },
+  {
+    "review": "깡패 오락물 치고 한국에선 이 영화 뛰어넘는 영화는 드물지 싶다..",
+    "date": "10.01.14",
+    "rating": "7",
+    "author": "imf0****",
+    "review_id": "4167490",
+    "movie_id": "17197"
+  },
+  {
+    "review": "강간을 합리화한다. 하지만, 뭐 영화니까",
+    "date": "09.10.07",
+    "rating": "10",
+    "author": "zmfo****",
+    "review_id": "3878942",
+    "movie_id": "17197"
+  },
+  {
+    "review": "강간을 합리화하는 개 쓰레기 영화",
+    "date": "09.10.01",
+    "rating": "1",
+    "author": "1opp****",
+    "review_id": "3863755",
+    "movie_id": "17197"
+  },
+  {
+    "review": "1966년 제작 작품?",
+    "date": "09.09.26",
+    "rating": "1",
+    "author": "pria****",
+    "review_id": "3850605",
+    "movie_id": "17197"
+  },
+  {
+    "review": "내 나이21살이다. 초등학교5학년때 삼촌방에서 몰래보고 넋을 잃고 봤던 영화다.",
+    "date": "09.09.12",
+    "rating": "10",
+    "author": "qhsj****",
+    "review_id": "3825875",
+    "movie_id": "17197"
+  },
+  {
+    "review": "늦은새벽 케이블 티브이, 결국 다보고 말았다.",
+    "date": "09.06.23",
+    "rating": "10",
+    "author": "luna****",
+    "review_id": "3583739",
+    "movie_id": "17197"
+  },
+  {
+    "review": "친구집에놀러가서본영화웃긴장면많코재밋다",
+    "date": "09.05.18",
+    "rating": "9",
+    "author": "zzzo****",
+    "review_id": "3504497",
+    "movie_id": "17197"
+  },
+  {
+    "review": "재밌게봤던 영화.",
+    "date": "09.05.14",
+    "rating": "10",
+    "author": "jkh0****",
+    "review_id": "3493829",
+    "movie_id": "17197"
+  },
+  {
+    "review": "친구 보다감동깊고 사실적이며,한국영화의수작이다.이영화8번은본것같다,한마디로강추",
+    "date": "09.04.29",
+    "rating": "10",
+    "author": "eagl****",
+    "review_id": "3447495",
+    "movie_id": "17197"
+  },
+  {
+    "review": "야한 장면만 보고 끄려다가....끝까지 보게된 영화.",
+    "date": "09.03.03",
+    "rating": "10",
+    "author": "mons****",
+    "review_id": "3345574",
+    "movie_id": "17197"
+  },
+  {
+    "review": "진자 웃김..기대이상의 영화엿다",
+    "date": "09.02.27",
+    "rating": "9",
+    "author": "kimk****",
+    "review_id": "3335685",
+    "movie_id": "17197"
+  },
+  {
+    "review": "너어게 가마, 나아게 오라.",
+    "date": "09.02.16",
+    "rating": "8",
+    "author": "urus****",
+    "review_id": "3308137",
+    "movie_id": "17197"
+  },
+  {
+    "review": "어린 시절을 회상하게 만들어준 영화. 유년시절 질풍노도를 감칠맛나게 표현한 영화.",
+    "date": "09.02.12",
+    "rating": "10",
+    "author": "brya****",
+    "review_id": "3296623",
+    "movie_id": "17197"
+  },
+  {
+    "review": "전라도 내 고향의 어린시절을 추억하게 하는 영화",
+    "date": "09.02.06",
+    "rating": "10",
+    "author": "daes****",
+    "review_id": "3283024",
+    "movie_id": "17197"
+  },
+  {
+    "review": "잘만든 한국영화..재미도있고..수작",
+    "date": "09.01.26",
+    "rating": "9",
+    "author": "tyso****",
+    "review_id": "3250273",
+    "movie_id": "17197"
+  },
+  {
+    "review": "춘근이 졸라 웃김~~강추~!",
+    "date": "08.11.22",
+    "rating": "10",
+    "author": "dlth****",
+    "review_id": "3064480",
+    "movie_id": "17197"
+  },
+  {
+    "review": "70년대의 청춘...",
+    "date": "08.11.17",
+    "rating": "6",
+    "author": "byju****",
+    "review_id": "3056238",
+    "movie_id": "17197"
+  },
+  {
+    "review": "최민수의 카리스마 아직 죽지 않았다",
+    "date": "08.08.18",
+    "rating": "8",
+    "author": "ccpk****",
+    "review_id": "2881727",
+    "movie_id": "17197"
+  },
+  {
+    "review": "수작이네..",
+    "date": "08.06.10",
+    "rating": "9",
+    "author": "smh0****",
+    "review_id": "2690937",
+    "movie_id": "17197"
+  },
+  {
+    "review": "와우  감회가 새롭네여^^   친구역으로  출연했었는데^^  감동있는 영화입니다^^",
+    "date": "08.04.29",
+    "rating": "10",
+    "author": "adab****",
+    "review_id": "2604995",
+    "movie_id": "17197"
+  },
+  {
+    "review": "최고의 한국영화 그때그시절...얼마나 치열했는지",
+    "date": "08.04.15",
+    "rating": "10",
+    "author": "staf****",
+    "review_id": "2581963",
+    "movie_id": "17197"
+  },
+  {
+    "review": "가진건 없어도 폼나게 살고 싶었는데, 아따 이놈의 시골바닥도 녹녹치 않네.",
+    "date": "08.03.28",
+    "rating": "7",
+    "author": "stra****",
+    "review_id": "2545838",
+    "movie_id": "17197"
+  },
+  {
+    "review": "친구에 버금갈 영화",
+    "date": "08.03.26",
+    "rating": "10",
+    "author": "wow3****",
+    "review_id": "2542712",
+    "movie_id": "17197"
+  },
+  {
+    "review": "재밌네",
+    "date": "08.03.23",
+    "rating": "10",
+    "author": "konu****",
+    "review_id": "2536002",
+    "movie_id": "17197"
+  },
+  {
+    "review": "정
