@@ -733,4 +733,70 @@
     "rating": "8",
     "author": "ran_****",
     "review_id": "1712974",
-    "movie_id"
+    "movie_id": "31345"
+  },
+  {
+    "review": "나쁘지 않은 내용이지만 지루했음.",
+    "date": "07.06.19",
+    "rating": "5",
+    "author": "moon****",
+    "review_id": "1709521",
+    "movie_id": "31345"
+  },
+  {
+    "review": "좋은 예기를 하는정도..전 지루했어요;;",
+    "date": "07.06.16",
+    "rating": "7",
+    "author": "drd1****",
+    "review_id": "1704005",
+    "movie_id": "31345"
+  },
+  {
+    "review": "특히 여기 나온 딸의 경우를 볼 때 마약.. 정말 끔찍스럽다.",
+    "date": "07.06.01",
+    "rating": "8",
+    "author": "chri****",
+    "review_id": "1676502",
+    "movie_id": "31345"
+  },
+  {
+    "review": "소더버그 최고의 영화",
+    "date": "07.05.29",
+    "rating": "9",
+    "author": "funk****",
+    "review_id": "1671674",
+    "movie_id": "31345"
+  },
+  {
+    "review": "정말 잘 만든 영화",
+    "date": "07.04.10",
+    "rating": "10",
+    "author": "vana****",
+    "review_id": "1582615",
+    "movie_id": "31345"
+  },
+  {
+    "review": "민감한 문제를 현실적으로 다뤘다.. 그것뿐.",
+    "date": "07.04.09",
+    "rating": "7",
+    "author": "jhga****",
+    "review_id": "1580433",
+    "movie_id": "31345"
+  },
+  {
+    "review": "굉장히 재미있엇다",
+    "date": "07.03.29",
+    "rating": "10",
+    "author": "hiuh****",
+    "review_id": "1560283",
+    "movie_id": "31345"
+  },
+  {
+    "review": "잘짜여진 시나리오, 재미있는 이야기, 유려한 편집",
+    "date": "07.02.22",
+    "rating": "9",
+    "author": "eleg****",
+    "review_id": "1492891",
+    "movie_id": "31345"
+  }
+]
