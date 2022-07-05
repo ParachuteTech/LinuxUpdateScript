@@ -752,3 +752,51 @@
     "movie_id": "54445"
   },
   {
+    "review": "현실성에 치중 둔 영화...하지만 3번째 이야기 제외하고는 최악",
+    "date": "06.10.31",
+    "rating": "4",
+    "author": "yhjy****",
+    "review_id": "1209553",
+    "movie_id": "54445"
+  },
+  {
+    "review": "내겐, 평론을 위해 지루한 영화를 참고 봐야할 인내가 없다.",
+    "date": "06.10.31",
+    "rating": "3",
+    "author": "onch****",
+    "review_id": "1208495",
+    "movie_id": "54445"
+  },
+  {
+    "review": "견.뎌.야.만.하는 비루한 청춘.",
+    "date": "06.10.31",
+    "rating": "8",
+    "author": "book****",
+    "review_id": "1208257",
+    "movie_id": "54445"
+  },
+  {
+    "review": "일상의 터치를 옮겨놓은 공감가는 이야기.",
+    "date": "06.10.30",
+    "rating": "9",
+    "author": "toma****",
+    "review_id": "1207478",
+    "movie_id": "54445"
+  },
+  {
+    "review": "재밌네요~",
+    "date": "06.10.30",
+    "rating": "9",
+    "author": "qase****",
+    "review_id": "1207341",
+    "movie_id": "54445"
+  },
+  {
+    "review": "뭐가 연결되지? 지루하지만 뭐 이런영화도 봐죠야..",
+    "date": "06.10.30",
+    "rating": "7",
+    "author": "gree****",
+    "review_id": "1207184",
+    "movie_id": "54445"
+  }
+]
