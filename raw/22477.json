@@ -91,4 +91,32 @@
     "review": "아씨 이게머야?",
     "date": "08.05.07",
     "rating": "1",
-    "
+    "author": "46to****",
+    "review_id": "2622734",
+    "movie_id": "22477"
+  },
+  {
+    "review": "67년 개봉 와",
+    "date": "08.03.31",
+    "rating": "10",
+    "author": "kket****",
+    "review_id": "2551222",
+    "movie_id": "22477"
+  },
+  {
+    "review": "9살때본영화...",
+    "date": "07.10.22",
+    "rating": "10",
+    "author": "unse****",
+    "review_id": "2106184",
+    "movie_id": "22477"
+  },
+  {
+    "review": "이런게 있었나??",
+    "date": "07.08.12",
+    "rating": "7",
+    "author": "xx41****",
+    "review_id": "1927520",
+    "movie_id": "22477"
+  }
+]
