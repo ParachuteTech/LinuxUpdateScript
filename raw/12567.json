@@ -136,4 +136,171 @@
     "movie_id": "12567"
   },
   {
-    "review": "책을 봐야겠군.
+    "review": "책을 봐야겠군... 이건 뭐 영화로는 다 얘기 못한거 같으니 찝찝해.",
+    "date": "07.07.15",
+    "rating": "5",
+    "author": "ghos****",
+    "review_id": "1778953",
+    "movie_id": "12567"
+  },
+  {
+    "review": "나의 장르로의 초대를 반긴다. 컬러 느와르의 치명적 매력.",
+    "date": "07.03.27",
+    "rating": "9",
+    "author": "jals****",
+    "review_id": "1557506",
+    "movie_id": "12567"
+  },
+  {
+    "review": "영화에 몰입이 안됩니다",
+    "date": "07.03.24",
+    "rating": "3",
+    "author": "ieod****",
+    "review_id": "1551820",
+    "movie_id": "12567"
+  },
+  {
+    "review": "마지막 장면이 참 인상적이다..돈이 왠수지..",
+    "date": "07.01.24",
+    "rating": "8",
+    "author": "hurr****",
+    "review_id": "1409723",
+    "movie_id": "12567"
+  },
+  {
+    "review": "지루하다...",
+    "date": "07.01.17",
+    "rating": "7",
+    "author": "nher****",
+    "review_id": "1391695",
+    "movie_id": "12567"
+  },
+  {
+    "review": "그리프터스가 만든 영화다. 관객으로서 쏘갔따.",
+    "date": "07.01.04",
+    "rating": "1",
+    "author": "bbul****",
+    "review_id": "1355735",
+    "movie_id": "12567"
+  },
+  {
+    "review": "걍 사기꾼얘기.아네트베닝의 누드와 엔젤리카누님의 연기 볼만함",
+    "date": "06.10.27",
+    "rating": "7",
+    "author": "jaux****",
+    "review_id": "1202111",
+    "movie_id": "12567"
+  },
+  {
+    "review": "아네트 베닝의 연기 굳, 미모는 베리 굳",
+    "date": "06.09.13",
+    "rating": "10",
+    "author": "drac****",
+    "review_id": "1119907",
+    "movie_id": "12567"
+  },
+  {
+    "review": "8점 / 인간 내면의 악마성에 대한 분석 보고서....",
+    "date": "06.08.02",
+    "rating": "10",
+    "author": "bruc****",
+    "review_id": "958942",
+    "movie_id": "12567"
+  },
+  {
+    "review": "존쿠삭 귀여워 왕 귀여워",
+    "date": "06.05.20",
+    "rating": "10",
+    "author": "bobb****",
+    "review_id": "807945",
+    "movie_id": "12567"
+  },
+  {
+    "review": "잔뜩 기대했는데 실망",
+    "date": "06.03.15",
+    "rating": "1",
+    "author": "scal****",
+    "review_id": "717462",
+    "movie_id": "12567"
+  },
+  {
+    "review": "안젤리카 휴스톤의 재능과 열정만으로도..",
+    "date": "06.01.24",
+    "rating": "10",
+    "author": "cher****",
+    "review_id": "617110",
+    "movie_id": "12567"
+  },
+  {
+    "review": "필름 느와르 \"걸작\"",
+    "date": "06.01.09",
+    "rating": "8",
+    "author": "movi****",
+    "review_id": "573501",
+    "movie_id": "12567"
+  },
+  {
+    "review": "흐지부지 끝내놓고 자본주의에 대한 냉소적 성찰이라고?",
+    "date": "05.10.04",
+    "rating": "7",
+    "author": "m60d****",
+    "review_id": "432984",
+    "movie_id": "12567"
+  },
+  {
+    "review": "사기 장면이 너무 길었다",
+    "date": "05.08.16",
+    "rating": "6",
+    "author": "okjo****",
+    "review_id": "370453",
+    "movie_id": "12567"
+  },
+  {
+    "review": "이런 영화는 사전정보를 전혀 습득하지 않은 상태에서 봐야한다",
+    "date": "05.06.25",
+    "rating": "10",
+    "author": "yytt****",
+    "review_id": "306217",
+    "movie_id": "12567"
+  },
+  {
+    "review": "영화사에 있어서 명화로 기록되는 영화라고 생각.",
+    "date": "05.03.09",
+    "rating": "9",
+    "author": "xwis****",
+    "review_id": "237932",
+    "movie_id": "12567"
+  },
+  {
+    "review": "아네트 베닝! 그녀의 팜므파탈!",
+    "date": "05.02.08",
+    "rating": "9",
+    "author": "yoju****",
+    "review_id": "213128",
+    "movie_id": "12567"
+  },
+  {
+    "review": "정말 인상적인 영화입니다 강추강추!",
+    "date": "04.07.23",
+    "rating": "9",
+    "author": "kmjy****",
+    "review_id": "75488",
+    "movie_id": "12567"
+  },
+  {
+    "review": "볼만한 작품.",
+    "date": "04.02.17",
+    "rating": "9",
+    "author": "kym_****",
+    "review_id": "21056",
+    "movie_id": "12567"
+  },
+  {
+    "review": "세 배우의 완벽한 연기..마지막 장면이 참으로 인상적..",
+    "date": "04.02.04",
+    "rating": "9",
+    "author": "thin****",
+    "review_id": "15747",
+    "movie_id": "12567"
+  }
+]
