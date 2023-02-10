@@ -265,4 +265,90 @@
   },
   {
     "review": "청주서 대학로까지 달려가 이영화를 보았던 2011 어느 뜨겁던 여름날에",
-    "date":
+    "date": "11.09.23",
+    "rating": "8",
+    "author": "xdiv****",
+    "review_id": "5746548",
+    "movie_id": "73998"
+  },
+  {
+    "review": "왜 해외에서 극찬을 받고 수상을 했는지 알겠습니다 연출도 연기도 훌륭하네요",
+    "date": "11.09.16",
+    "rating": "10",
+    "author": "ggch****",
+    "review_id": "5735323",
+    "movie_id": "73998"
+  },
+  {
+    "review": "동네 이웃에서 일어나는 일들을 옆에서 구경하는 느낌 이랄까..자연스런 연기 좋았음.",
+    "date": "11.09.08",
+    "rating": "10",
+    "author": "chan****",
+    "review_id": "5716175",
+    "movie_id": "73998"
+  },
+  {
+    "review": "혼자 감당하는 사람을 들여다보는 과묵하고 냉정한 시선.",
+    "date": "11.09.06",
+    "rating": "7",
+    "author": "logo****",
+    "review_id": "5711265",
+    "movie_id": "73998"
+  },
+  {
+    "review": "탈북자 들을 위한 감동과 교훈만 있다",
+    "date": "11.09.05",
+    "rating": "5",
+    "author": "evil****",
+    "review_id": "5711066",
+    "movie_id": "73998"
+  },
+  {
+    "review": "이보다 더 아픈 영화가 있을까..오랜만에 만나는 한국영화의 수작!!!",
+    "date": "11.09.02",
+    "rating": "10",
+    "author": "movi****",
+    "review_id": "5703842",
+    "movie_id": "73998"
+  },
+  {
+    "review": "한계를 극복해가길..",
+    "date": "11.09.01",
+    "rating": "9",
+    "author": "85mi****",
+    "review_id": "5702164",
+    "movie_id": "73998"
+  },
+  {
+    "review": "올해 주목해야 할 작품",
+    "date": "11.08.30",
+    "rating": "10",
+    "author": "seen****",
+    "review_id": "5699148",
+    "movie_id": "73998"
+  },
+  {
+    "review": "탈북자의 마음이, 삶이 이럴까?",
+    "date": "11.03.03",
+    "rating": "10",
+    "author": "gall****",
+    "review_id": "5291058",
+    "movie_id": "73998"
+  },
+  {
+    "review": "어메이징 한 영화.",
+    "date": "11.03.03",
+    "rating": "10",
+    "author": "kkci****",
+    "review_id": "5291054",
+    "movie_id": "73998"
+  },
+  {
+    "review": "아직 개봉안했네요",
+    "date": "11.02.26",
+    "rating": "1",
+    "author": "dlat****",
+    "review_id": "5278661",
+    "movie_id": "73998"
+  }
+]
