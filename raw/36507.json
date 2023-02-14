@@ -234,4 +234,57 @@
   {
     "review": "단지 광대한 스타트렉 세계관의 일부. 영화만으로 판단하기에는 새발의 피",
     "date": "07.10.29",
-    "
+    "rating": "10",
+    "author": "char****",
+    "review_id": "2119988",
+    "movie_id": "36507"
+  },
+  {
+    "review": "참 불쌍한 영화일세.. 만들지나 않았으면..",
+    "date": "06.04.27",
+    "rating": "1",
+    "author": "lhcg****",
+    "review_id": "777914",
+    "movie_id": "36507"
+  },
+  {
+    "review": "매니아적인 시리즈물들도 이제는 진화가 필요하다.",
+    "date": "05.08.16",
+    "rating": "7",
+    "author": "ajdc****",
+    "review_id": "370310",
+    "movie_id": "36507"
+  },
+  {
+    "review": "그럭저럭 봤지만 우리나라에서 좋은 평가받기 어려운 영화.",
+    "date": "05.08.03",
+    "rating": "6",
+    "author": "join****",
+    "review_id": "350561",
+    "movie_id": "36507"
+  },
+  {
+    "review": "이제 그만좀 나와라",
+    "date": "04.10.12",
+    "rating": "1",
+    "author": "arie****",
+    "review_id": "124623",
+    "movie_id": "36507"
+  },
+  {
+    "review": "기대를 많이하고봐서리....ㅋㅋㅋ",
+    "date": "04.07.28",
+    "rating": "6",
+    "author": "kjhg****",
+    "review_id": "78746",
+    "movie_id": "36507"
+  },
+  {
+    "review": "울궈먹기 이젠 지겹다.",
+    "date": "04.01.19",
+    "rating": "1",
+    "author": "wons****",
+    "review_id": "11688",
+    "movie_id": "36507"
+  }
+]
