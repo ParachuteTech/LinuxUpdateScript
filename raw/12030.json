@@ -268,4 +268,79 @@
     "date": "08.04.06",
     "rating": "10",
     "author": "nsdx****",
-    "rev
+    "review_id": "2563314",
+    "movie_id": "12030"
+  },
+  {
+    "review": "정말 다시한번 보고 싶어요. 꼭.",
+    "date": "08.02.19",
+    "rating": "10",
+    "author": "movi****",
+    "review_id": "2461844",
+    "movie_id": "12030"
+  },
+  {
+    "review": "아직도 노란 우비의 색감이 선명해요 :)",
+    "date": "08.01.10",
+    "rating": "10",
+    "author": "vivi****",
+    "review_id": "2314362",
+    "movie_id": "12030"
+  },
+  {
+    "review": "이영화를 기억하고 있는 분들이 많네요.. 저도 꼭 구하고 싶어요...",
+    "date": "08.01.08",
+    "rating": "10",
+    "author": "spec****",
+    "review_id": "2307810",
+    "movie_id": "12030"
+  },
+  {
+    "review": "정말다시보고싶은영화인데...mbc에서 어찌 안될지...흑",
+    "date": "07.11.01",
+    "rating": "10",
+    "author": "hpli****",
+    "review_id": "2126669",
+    "movie_id": "12030"
+  },
+  {
+    "review": "진짜 인상깊었던 영화인데 ..다시보면 어떨지..다시보고싶음.",
+    "date": "07.06.30",
+    "rating": "10",
+    "author": "eoqk****",
+    "review_id": "1732363",
+    "movie_id": "12030"
+  },
+  {
+    "review": "노란 비옷이 생각나는.. 영화에 눈 뜨게 해준 첫 사랑.. 첫 영화~",
+    "date": "07.05.16",
+    "rating": "10",
+    "author": "hans****",
+    "review_id": "1641965",
+    "movie_id": "12030"
+  },
+  {
+    "review": "오래됐지만 다시 한번보고싶네요dvd나 테이프 구할방법 있나요?",
+    "date": "07.02.14",
+    "rating": "10",
+    "author": "smil****",
+    "review_id": "1470355",
+    "movie_id": "12030"
+  },
+  {
+    "review": "저도 이 영화 사고 싶어요.",
+    "date": "05.05.30",
+    "rating": "9",
+    "author": "belm****",
+    "review_id": "290365",
+    "movie_id": "12030"
+  },
+  {
+    "review": "넘 멋진 영화...어떻게 구하져?",
+    "date": "04.11.19",
+    "rating": "10",
+    "author": "prir****",
+    "review_id": "148408",
+    "movie_id": "12030"
+  }
+]
